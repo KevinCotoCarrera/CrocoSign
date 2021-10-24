@@ -1,6 +1,6 @@
 <template>
      <div class=" mt-14 sm:mt-20 pb-10" id="team">
-              <h2 class="text-3xl font-semibold text-center">
+              <h2 class="text-xl font-semibold text-center">
                 Nuestros altamente calificados Diseñadores
               </h2>
                 <div class="team flex flex-col justify-around md:flex-row">
