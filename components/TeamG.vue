@@ -3,7 +3,7 @@
               <h2 class="text-3xl font-semibold text-center">
                 Nuestros altamente calificados Diseñadores
               </h2>
-                <div class="team flex flex-col md:flex-row">
+                <div class="team flex flex-col justify-around md:flex-row">
                     <div class="mt-20 flex flex-col items-center">
                         <img src="../static/person1.jpg" class="w-72 h-72 rounded-md shadow-lg"/>
                         <h3 class="text-lg font-medium mt-3 text-left w-60">Marcus Stevenson</h3>

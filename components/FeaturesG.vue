@@ -3,7 +3,7 @@
               <h2 class="text-3xl font-semibold text-center">
                 ¿Porqué los clientes nos eligen?
               </h2>
-            <div class="features flex flex-col justify-around sm:flex-row gap-20 justify-center mt-20">
+            <div class="features flex flex-col sm:flex-row gap-20 justify-center mt-20">
                     
                     <div>
                         <h3 class="text-lg font-medium"><img src="../static/check.svg" class="w-5 h-5 mb-1 mr-2 inline"/> Siempre Disponibles</h3>
