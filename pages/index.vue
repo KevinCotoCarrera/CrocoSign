@@ -19,7 +19,7 @@ export default {
         .from('#brand', {y: '70px' , ease: 'bounce'})
         .from('.links',{ opacity : 0 , ease: 'bounce'})
         .from('.hero-section', {y: '70px' , ease: 'bounce',delay: 0.1})
-        .from('.hero-image', {x: '70px' , ease: 'ease', delay: 0.3,})
+        .from('.hero-image', {x: '30px' , ease: 'ease', delay: 0.3,})
      
         }}}
   

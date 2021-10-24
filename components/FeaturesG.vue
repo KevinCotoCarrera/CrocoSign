@@ -24,7 +24,7 @@
                     </div>
                   
                     <div>
-                        <h3 class="text-lg font-medium"><img src="../static/check.svg" class="w-5 h-5 mb-1 mr-2 inline"/> Siempre Disponibles</h3>
+                        <h3 class="text-lg font-medium"><img src="../static/check.svg" class="w-5 h-5 mb-1 mr-2 inline"/> Rápida Ejucución</h3>
                         <p class="text-gray-600 text-sm w-60 mt-1">Trabajando en plazos cortos de tiempo ¿apurado?, somos tu solución</p>
                     </div>
                   
