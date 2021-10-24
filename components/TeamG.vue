@@ -1,10 +1,10 @@
 <template>
-     <div class=" mt-20 pb-10" id="team">
+     <div class=" mt-14 sm:mt-20 pb-10" id="team">
               <h2 class="text-3xl font-semibold text-center">
                 Nuestros altamente calificados Diseñadores
               </h2>
                 <div class="team flex flex-col justify-around md:flex-row">
-                    <div class="mt-20 flex flex-col items-center">
+                    <div class="mt-14 sm:mt-20 flex flex-col items-center">
                         <img src="../static/person1.jpg" class="w-72 h-72 rounded-md shadow-lg"/>
                         <h3 class="text-lg font-medium mt-3 text-left w-60">Marcus Stevenson</h3>
                         <span class="text-gray-600 font-light text-sm text-left w-60">Diseñador Web</span>
@@ -14,7 +14,7 @@
                          <span class="text-gray-600 font-light text-sm text-left w-60">Diseñadora Gráfica</span>
                         <p class="text-gray-600 text-sm w-60 h-20 mt-1">Experiencia trabajando en la creación de flyers para eventos y poster con objetivo comercial, capaz de llevar una identidad visual de 0 a 100.</p>
                     </div>
-                    <div class="mt-20 flex flex-col items-center ">
+                    <div class="mt-14 sm:mt-20 flex flex-col items-center ">
                         <img src="../static/person3.jpg" class="w-72 h-72 rounded-md shadow"/>
                         <h3 class="text-lg font-medium mt-3 text-left  w-60">Julia Roberts</h3>
                          <span class="text-gray-600 font-light text-sm text-left w-60">Diseñadora Mobile</span>

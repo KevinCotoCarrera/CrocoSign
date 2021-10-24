@@ -18,8 +18,9 @@ export default {
      timeline
         .from('#brand', {y: '70px' , ease: 'bounce'})
         .from('.links',{ opacity : 0 , ease: 'bounce'})
-        .from('.hero-section', {y: '70px' , ease: 'bounce',delay: 0.1})
+        .from('.hero-section', {y: '50px' , ease: 'bounce',delay: 0.1})
         .from('.hero-image', {x: '70px' , ease: 'ease', delay: 0.3,})
+        .from('.btn-green', {x: '50px' , ease: 'bounce', duration: 0.1 })
      
         }}}
   
