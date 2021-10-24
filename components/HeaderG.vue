@@ -32,7 +32,7 @@
       Contratanós 
       </v-btn>
       </div>
-      <img src="..\static\img-header.jpg" class="hero-image w-64 hidden md:inline sm:w-80 lg:w-96 rounded-sm shadow-lg">
+      <img src="../static/img-header.jpg" class="hero-image w-64 hidden md:inline sm:w-80 lg:w-96 rounded-sm shadow-lg">
     </div>
    <div class="flex gap-5 px-10">
           
