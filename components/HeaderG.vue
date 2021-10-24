@@ -4,8 +4,8 @@
     <div class="w-full p-5 flex justify-around z-50">
       <span id="brand" class="text-2xl font-bold">Crocosign</span>
       <ul class="flex justify-end gap-4 text-gray-600 nav" style="line-height: 32px;">
-          <li class="links">Servicios</li>
-          <li class="links">Acerca de nosotros</li>
+          <li class="links hidden sm:inline"><a href="#team">Team</a></li>
+          <li class="links hidden sm:inline"><a href="#about">Acerca de Nosotrosa</a></li>
           <li>
             <v-btn class="-mt-1 btn links"
             small

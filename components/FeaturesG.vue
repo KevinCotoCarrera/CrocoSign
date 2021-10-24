@@ -1,5 +1,5 @@
 <template>
-      <div class=" mt-20">
+      <div class="flex flex-col justify-center items-center sm:block mt-20" id="about">
               <h2 class="text-3xl font-semibold text-center">
                 ¿Porqué los clientes nos eligen?
               </h2>

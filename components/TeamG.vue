@@ -1,5 +1,5 @@
 <template>
-     <div class=" mt-20 pb-10">
+     <div class=" mt-20 pb-10" id="team">
               <h2 class="text-3xl font-semibold text-center">
                 Nuestros altamente calificados Diseñadores
               </h2>
