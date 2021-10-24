@@ -1,6 +1,6 @@
 <template>
       <div class="flex flex-col justify-center items-center sm:block mt-14 sm:mt-20" id="about">
-              <h2 class="text-xl font-semibold text-center">
+              <h2 class="text-xl sm:text-3xl font-semibold text-center">
                 ¿Por qué los clientes nos eligen?
               </h2>
             <div class="features flex flex-col sm:flex-row gap-20 justify-center mt-14 sm:mt-20">
