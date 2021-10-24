@@ -1,11 +1,11 @@
 <template>
   <div >
     
-    <div class="w-full p-5 flex justify-around z-50">
+    <div class="w-full p-5 flex justify-around sm:justify-between z-50">
       <span id="brand" class="text-2xl font-bold">Crocosign</span>
       <ul class="flex justify-end gap-4 text-gray-600 nav" style="line-height: 32px;">
-          <li class="links hidden sm:inline"><a href="#team">Team</a></li>
-          <li class="links hidden sm:inline"><a href="#about">Acerca de Nosotrosa</a></li>
+          <li class="links hidden sm:inline"><a href="#team">Nuestro Team</a></li>
+          <li class="links hidden sm:inline"><a href="#about">Acerca de Nosotros</a></li>
           <li>
             <v-btn class="-mt-1 btn links"
             small
@@ -17,7 +17,7 @@
             </v-btn></li>
       </ul>
     </div>
-    <div class="hero-section flex px-2 md:px-10 lg:px-20 xl:px-52 mt-20">
+    <div class="hero-section flex text-center px-2 md:px-10 lg:px-20 xl:px-52 mt-20">
       <div class="flex flex-col gap-4">
       <h1 class="hero-text text-4xl font-bold">
         Creamos diseños que <span class="block"> resaltan tu marca,</span> <span class="block"> y te hacen inolvidable</span>
