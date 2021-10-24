@@ -17,7 +17,7 @@
             </v-btn></li>
       </ul>
     </div>
-    <div class="hero-section flex px-2 md:px-10 lg:px-14 xl:px-24 mt-20">
+    <div class="hero-section flex justify-around px-2 md:px-10 lg:px-14 xl:px-24 mt-20">
       <div class="flex flex-col gap-4">
       <h1 class="hero-text text-4xl font-bold">
         Creamos diseños que <span class="block"> resaltan tu marca,</span> <span class="block"> y te hacen inolvidable</span>
