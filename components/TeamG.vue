@@ -31,13 +31,7 @@
 <script>
 
 export default {
-    mounted(){
-        this.animateTeam()
-    },
-    methods:{
-        animateTeam(){
-            this.$gsap.from('.team' ,{ scrollTrigger:{trigger:'.team' , toggleActions: 'restart none none none'} ,x: '-100px' , ease: 'bounce',})
-        }
-    }
+   
+    
 }
 </script>
