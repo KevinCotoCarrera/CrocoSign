@@ -32,7 +32,7 @@
       Contrátanos 
       </v-btn>
       </div>
-      <img src="../static/img-header.jpg" class="hero-image w-64 h-64 hidden sm:inline md:w-80 md:h-80 lg:w-96 lg-h-96 rounded-sm shadow-lg">
+      <img src="../static/img-header.jpg" class="hero-image w-64 hidden sm:inline md:w-80 md:h-80 lg:w-96 lg-h-96 rounded-sm shadow-lg">
     </div>
    <div class="flex gap-5 px-10">
           
